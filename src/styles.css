@@ -23,6 +23,14 @@ ul {
   margin: 20px auto;
   max-width: 600px;
   border-radius: 7.5px;
+  translate: 0;
+  translate: 0;
+  rotate: 0;
+  scale: 1;
+  scale: 1;
+  width: 0px;
+  color: #fff;
+  color: rgb(59 130 246 / 0.5);
 }
 .description {
   font-weight: 400;
