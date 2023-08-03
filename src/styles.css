@@ -39,3 +39,10 @@ ul {
 .business {
   margin-right: 100px;
 }
+.ultimate {
+  margin: center;
+  padding: 7px;
+  margin: 20px auto;
+  max-width: 600px;
+  border-radius: 7.5px;
+}
